@@ -1,4 +1,4 @@
-# natural-image-generator
+# Natural Image Generator
 
 This script will take a directory of font ttf files (say from Google fonts), and generate
 random natural images by letter and number, varying the color of the text, background and
