@@ -53,7 +53,7 @@ reg_height_offset_range = (0, 3)
 
 width_offset_range = (-6, 6)
 
-N = 10 # num copies of each char
+N = 100 # num copies of each char
 
 
 # end constants ---------------
